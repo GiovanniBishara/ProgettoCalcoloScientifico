@@ -1,5 +1,5 @@
 # Image Compression
-
+c
 
 > Methods of Scientific Computing Project for University Milano Bicocca. 2023-2024. Grade: 30
 

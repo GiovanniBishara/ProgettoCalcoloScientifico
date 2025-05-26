@@ -1,0 +1,590 @@
+====[ DATI ESECUZIONE METODI ]====
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.056538000
+Errore Relativo: 0.0017708118132163107
+Numero di Iterazioni 115/50000
+Tolleranza: 0.0001
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.117896000
+Errore Relativo: 0.01819346991107199
+Numero di Iterazioni 9/50000
+Tolleranza: 0.0001
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.040626000
+Errore Relativo: 0.03461282495036974
+Numero di Iterazioni 143/50000
+Tolleranza: 0.0001
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.022098000
+Errore Relativo: 0.020800035393044602
+Numero di Iterazioni 49/50000
+Tolleranza: 0.0001
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.070586000
+Errore Relativo: 1.797924734135133e-05
+Numero di Iterazioni 181/50000
+Tolleranza: 1e-06
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.215552000
+Errore Relativo: 0.00012996891625714063
+Numero di Iterazioni 17/50000
+Tolleranza: 1e-06
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.984531000
+Errore Relativo: 0.0009680780107535671
+Numero di Iterazioni 3577/50000
+Tolleranza: 1e-06
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.062016000
+Errore Relativo: 2.5529093558291813e-05
+Numero di Iterazioni 134/50000
+Tolleranza: 1e-06
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.093141000
+Errore Relativo: 1.824978826804907e-07
+Numero di Iterazioni 247/50000
+Tolleranza: 1e-08
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.302114000
+Errore Relativo: 1.7097328167368847e-06
+Numero di Iterazioni 24/50000
+Tolleranza: 1e-08
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 2.268558000
+Errore Relativo: 9.816366889646606e-06
+Numero di Iterazioni 8233/50000
+Tolleranza: 1e-08
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.080830000
+Errore Relativo: 1.3198408169444335e-07
+Numero di Iterazioni 177/50000
+Tolleranza: 1e-08
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.116617000
+Errore Relativo: 1.852437136678252e-09
+Numero di Iterazioni 313/50000
+Tolleranza: 1e-10
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.389797000
+Errore Relativo: 2.2480879166054184e-08
+Numero di Iterazioni 31/50000
+Tolleranza: 1e-10
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 3.566301000
+Errore Relativo: 9.820387853272117e-08
+Numero di Iterazioni 12919/50000
+Tolleranza: 1e-10
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.089822000
+Errore Relativo: 1.2083233650554282e-09
+Numero di Iterazioni 200/50000
+Tolleranza: 1e-10
+
+=== Jacobi Method ===
+Matrice: 1
+Tempo Impiegato: 0.115684000
+Errore Relativo: 0.0017667164062951793
+Numero di Iterazioni 36/50000
+Tolleranza: 0.0001
+
+=== Gauss-Seidel Method ===
+Matrice: 1
+Tempo Impiegato: 0.231032000
+Errore Relativo: 0.0025987945418207447
+Numero di Iterazioni 5/50000
+Tolleranza: 0.0001
+
+=== Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 0.435021000
+Errore Relativo: 0.01814126247276901
+Numero di Iterazioni 161/50000
+Tolleranza: 0.0001
+
+=== Conjugate Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 0.181817000
+Errore Relativo: 0.00982249732340532
+Numero di Iterazioni 42/50000
+Tolleranza: 0.0001
+
+=== Jacobi Method ===
+Matrice: 1
+Tempo Impiegato: 0.173970000
+Errore Relativo: 1.666751929220413e-05
+Numero di Iterazioni 57/50000
+Tolleranza: 1e-06
+
+=== Gauss-Seidel Method ===
+Matrice: 1
+Tempo Impiegato: 0.357017000
+Errore Relativo: 5.141640652971707e-05
+Numero di Iterazioni 8/50000
+Tolleranza: 1e-06
+
+=== Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 5.399192000
+Errore Relativo: 0.000669428415815114
+Numero di Iterazioni 1949/50000
+Tolleranza: 1e-06
+
+=== Conjugate Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 0.540674000
+Errore Relativo: 0.00011979846942689547
+Numero di Iterazioni 122/50000
+Tolleranza: 1e-06
+
+=== Jacobi Method ===
+Matrice: 1
+Tempo Impiegato: 0.230443000
+Errore Relativo: 1.5728699326784275e-07
+Numero di Iterazioni 78/50000
+Tolleranza: 1e-08
+
+=== Gauss-Seidel Method ===
+Matrice: 1
+Tempo Impiegato: 0.523819000
+Errore Relativo: 2.794322035576548e-07
+Numero di Iterazioni 12/50000
+Tolleranza: 1e-08
+
+=== Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 14.728135000
+Errore Relativo: 6.865240653281618e-06
+Numero di Iterazioni 5087/50000
+Tolleranza: 1e-08
+
+=== Conjugate Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 0.907959000
+Errore Relativo: 5.586660596038337e-07
+Numero di Iterazioni 196/50000
+Tolleranza: 1e-08
+
+=== Jacobi Method ===
+Matrice: 1
+Tempo Impiegato: 0.291539000
+Errore Relativo: 1.4842717026807935e-09
+Numero di Iterazioni 99/50000
+Tolleranza: 1e-10
+
+=== Gauss-Seidel Method ===
+Matrice: 1
+Tempo Impiegato: 0.654092000
+Errore Relativo: 5.570739507161994e-09
+Numero di Iterazioni 15/50000
+Tolleranza: 1e-10
+
+=== Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 23.614716000
+Errore Relativo: 6.937814564008506e-08
+Numero di Iterazioni 8285/50000
+Tolleranza: 1e-10
+
+=== Conjugate Gradient Method ===
+Matrice: 1
+Tempo Impiegato: 1.037949000
+Errore Relativo: 5.324230491190132e-09
+Numero di Iterazioni 240/50000
+Tolleranza: 1e-10
+
+=== Jacobi Method ===
+Matrice: 2
+Tempo Impiegato: 0.156144000
+Errore Relativo: 0.0035503020437906226
+Numero di Iterazioni 1314/50000
+Tolleranza: 0.0001
+
+=== Gauss-Seidel Method ===
+Matrice: 2
+Tempo Impiegato: 13.345425000
+Errore Relativo: 0.0035167043466631234
+Numero di Iterazioni 659/50000
+Tolleranza: 0.0001
+
+=== Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.036653000
+Errore Relativo: 0.002710359577796856
+Numero di Iterazioni 890/50000
+Tolleranza: 0.0001
+
+=== Conjugate Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.003011000
+Errore Relativo: 4.0827937374413476e-05
+Numero di Iterazioni 38/50000
+Tolleranza: 0.0001
+
+=== Jacobi Method ===
+Matrice: 2
+Tempo Impiegato: 0.284106000
+Errore Relativo: 3.540172346953883e-05
+Numero di Iterazioni 2433/50000
+Tolleranza: 1e-06
+
+=== Gauss-Seidel Method ===
+Matrice: 2
+Tempo Impiegato: 25.123406000
+Errore Relativo: 3.52679507611332e-05
+Numero di Iterazioni 1218/50000
+Tolleranza: 1e-06
+
+=== Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.065342000
+Errore Relativo: 2.713397344928589e-05
+Numero di Iterazioni 1612/50000
+Tolleranza: 1e-06
+
+=== Conjugate Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.003509000
+Errore Relativo: 3.732339702135222e-07
+Numero di Iterazioni 45/50000
+Tolleranza: 1e-06
+
+=== Jacobi Method ===
+Matrice: 2
+Tempo Impiegato: 0.409506000
+Errore Relativo: 3.5397669465902395e-07
+Numero di Iterazioni 3552/50000
+Tolleranza: 1e-08
+
+=== Gauss-Seidel Method ===
+Matrice: 2
+Tempo Impiegato: 36.228444000
+Errore Relativo: 3.5174579328487756e-07
+Numero di Iterazioni 1778/50000
+Tolleranza: 1e-08
+
+=== Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.096360000
+Errore Relativo: 2.695337972440607e-07
+Numero di Iterazioni 2336/50000
+Tolleranza: 1e-08
+
+=== Conjugate Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.004013000
+Errore Relativo: 2.8318734431211697e-09
+Numero di Iterazioni 53/50000
+Tolleranza: 1e-08
+
+=== Jacobi Method ===
+Matrice: 2
+Tempo Impiegato: 0.522788000
+Errore Relativo: 3.5394587549435925e-09
+Numero di Iterazioni 4671/50000
+Tolleranza: 1e-10
+
+=== Gauss-Seidel Method ===
+Matrice: 2
+Tempo Impiegato: 47.470938000
+Errore Relativo: 3.5082382834419143e-09
+Numero di Iterazioni 2338/50000
+Tolleranza: 1e-10
+
+=== Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.126575000
+Errore Relativo: 2.7131654750708996e-09
+Numero di Iterazioni 3058/50000
+Tolleranza: 1e-10
+
+=== Conjugate Gradient Method ===
+Matrice: 2
+Tempo Impiegato: 0.005517000
+Errore Relativo: 2.1917513923261113e-11
+Numero di Iterazioni 59/50000
+Tolleranza: 1e-10
+
+=== Jacobi Method ===
+Matrice: 3
+Tempo Impiegato: 0.270776000
+Errore Relativo: 0.004988120299885085
+Numero di Iterazioni 1927/50000
+Tolleranza: 0.0001
+
+=== Gauss-Seidel Method ===
+Matrice: 3
+Tempo Impiegato: 32.394390000
+Errore Relativo: 0.004970707700261484
+Numero di Iterazioni 965/50000
+Tolleranza: 0.0001
+
+=== Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.067230000
+Errore Relativo: 0.003823493944923804
+Numero di Iterazioni 1308/50000
+Tolleranza: 0.0001
+
+=== Conjugate Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.005011000
+Errore Relativo: 5.729018955377775e-05
+Numero di Iterazioni 47/50000
+Tolleranza: 0.0001
+
+=== Jacobi Method ===
+Matrice: 3
+Tempo Impiegato: 0.499779000
+Errore Relativo: 4.967230366467791e-05
+Numero di Iterazioni 3676/50000
+Tolleranza: 1e-06
+
+=== Gauss-Seidel Method ===
+Matrice: 3
+Tempo Impiegato: 58.905646000
+Errore Relativo: 4.941955175325838e-05
+Numero di Iterazioni 1840/50000
+Tolleranza: 1e-06
+
+=== Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.126928000
+Errore Relativo: 3.791533139776185e-05
+Numero di Iterazioni 2438/50000
+Tolleranza: 1e-06
+
+=== Conjugate Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.006519000
+Errore Relativo: 4.742996283419743e-07
+Numero di Iterazioni 56/50000
+Tolleranza: 1e-06
+
+=== Jacobi Method ===
+Matrice: 3
+Tempo Impiegato: 0.741308000
+Errore Relativo: 4.965609860645762e-07
+Numero di Iterazioni 5425/50000
+Tolleranza: 1e-08
+
+=== Gauss-Seidel Method ===
+Matrice: 3
+Tempo Impiegato: 87.040397000
+Errore Relativo: 4.958371577601451e-07
+Numero di Iterazioni 2714/50000
+Tolleranza: 1e-08
+
+=== Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.188469000
+Errore Relativo: 3.8098518168686025e-07
+Numero di Iterazioni 3566/50000
+Tolleranza: 1e-08
+
+=== Conjugate Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.007024000
+Errore Relativo: 4.299983499906265e-09
+Numero di Iterazioni 66/50000
+Tolleranza: 1e-08
+
+=== Jacobi Method ===
+Matrice: 3
+Tempo Impiegato: 0.945297000
+Errore Relativo: 4.9641852399857116e-09
+Numero di Iterazioni 7174/50000
+Tolleranza: 1e-10
+
+=== Gauss-Seidel Method ===
+Matrice: 3
+Tempo Impiegato: 114.988577000
+Errore Relativo: 4.948906374731523e-09
+Numero di Iterazioni 3589/50000
+Tolleranza: 1e-10
+
+=== Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.242748000
+Errore Relativo: 3.798773418111693e-09
+Numero di Iterazioni 4696/50000
+Tolleranza: 1e-10
+
+=== Conjugate Gradient Method ===
+Matrice: 3
+Tempo Impiegato: 0.007530000
+Errore Relativo: 2.2476284434028863e-11
+Numero di Iterazioni 74/50000
+Tolleranza: 1e-10
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.054223000
+Errore Relativo: 0.0017708118132163107
+Numero di Iterazioni 115/50000
+Tolleranza: 0.0001
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.121944000
+Errore Relativo: 0.01819346991107199
+Numero di Iterazioni 9/50000
+Tolleranza: 0.0001
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.041739000
+Errore Relativo: 0.03461282495036974
+Numero di Iterazioni 143/50000
+Tolleranza: 0.0001
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.023943000
+Errore Relativo: 0.020800035393044602
+Numero di Iterazioni 49/50000
+Tolleranza: 0.0001
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.072271000
+Errore Relativo: 1.797924734135133e-05
+Numero di Iterazioni 181/50000
+Tolleranza: 1e-06
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.210502000
+Errore Relativo: 0.00012996891625714063
+Numero di Iterazioni 17/50000
+Tolleranza: 1e-06
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.982669000
+Errore Relativo: 0.0009680780107535671
+Numero di Iterazioni 3577/50000
+Tolleranza: 1e-06
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.061935000
+Errore Relativo: 2.5529093558291813e-05
+Numero di Iterazioni 134/50000
+Tolleranza: 1e-06
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.092572000
+Errore Relativo: 1.824978826804907e-07
+Numero di Iterazioni 247/50000
+Tolleranza: 1e-08
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.294938000
+Errore Relativo: 1.7097328167368847e-06
+Numero di Iterazioni 24/50000
+Tolleranza: 1e-08
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.046828000
+Errore Relativo: 0.0017708118132163107
+Numero di Iterazioni 115/50000
+Tolleranza: 0.0001
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.115894000
+Errore Relativo: 0.01819346991107199
+Numero di Iterazioni 9/50000
+Tolleranza: 0.0001
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.039739000
+Errore Relativo: 0.03461282495036974
+Numero di Iterazioni 143/50000
+Tolleranza: 0.0001
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.022077000
+Errore Relativo: 0.020800035393044602
+Numero di Iterazioni 49/50000
+Tolleranza: 0.0001
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.070800000
+Errore Relativo: 1.797924734135133e-05
+Numero di Iterazioni 181/50000
+Tolleranza: 1e-06
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.214545000
+Errore Relativo: 0.00012996891625714063
+Numero di Iterazioni 17/50000
+Tolleranza: 1e-06
+
+=== Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.986270000
+Errore Relativo: 0.0009680780107535671
+Numero di Iterazioni 3577/50000
+Tolleranza: 1e-06
+
+=== Conjugate Gradient Method ===
+Matrice: 0
+Tempo Impiegato: 0.060365000
+Errore Relativo: 2.5529093558291813e-05
+Numero di Iterazioni 134/50000
+Tolleranza: 1e-06
+
+=== Jacobi Method ===
+Matrice: 0
+Tempo Impiegato: 0.093942000
+Errore Relativo: 1.824978826804907e-07
+Numero di Iterazioni 247/50000
+Tolleranza: 1e-08
+
+=== Gauss-Seidel Method ===
+Matrice: 0
+Tempo Impiegato: 0.301494000
+Errore Relativo: 1.7097328167368847e-06
+Numero di Iterazioni 24/50000
+Tolleranza: 1e-08
+

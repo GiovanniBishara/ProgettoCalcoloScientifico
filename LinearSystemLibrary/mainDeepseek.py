@@ -89,7 +89,7 @@ def print_results(results):
 if __name__ == "__main__":
     # Configurazione
     matrix_dir = 'matrix'  # Cartella contenente le matrici
-    tolerances = [1e-4, 1e-6, 1e-8]  # Lista di tolleranze da testare
+    tolerances = [1e-4, 1e-6, 1e-8,1e-10]  # Lista di tolleranze da testare
 
     # Caricamento matrici
     print("Caricamento matrici...")

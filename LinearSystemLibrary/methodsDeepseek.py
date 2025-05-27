@@ -44,7 +44,7 @@ def solve_linear_system(method, A, b, x_exact, tol=1e-6, max_iter=20000):
     return method_map[method](A, b, x_exact, tol, max_iter)
 
 
-def jacobi(A, b, x_exact, tol=1e-6, max_iter=20000):
+def jacobi(A, b, x_exact, tol, max_iter):
     """
     Metodo di Jacobi per sistemi lineari
     """
@@ -67,7 +67,7 @@ def jacobi(A, b, x_exact, tol=1e-6, max_iter=20000):
     return x, k + 1, process_time() - start_time, error
 
 
-def gauss_seidel(A, b, x_exact, tol=1e-6, max_iter=20000):
+def gauss_seidel(A, b, x_exact, tol, max_iter):
     """
     Metodo di Gauss-Seidel per sistemi lineari
     """
@@ -89,7 +89,7 @@ def gauss_seidel(A, b, x_exact, tol=1e-6, max_iter=20000):
     return x, k + 1, process_time() - start_time, error
 
 
-def gradient(A, b, x_exact, tol=1e-6, max_iter=20000):
+def gradient(A, b, x_exact, tol, max_iter):
     """
     Metodo del Gradiente per sistemi lineari
     """
@@ -116,7 +116,7 @@ def gradient(A, b, x_exact, tol=1e-6, max_iter=20000):
     return x, k + 1, process_time() - start_time, error
 
 
-def conjugate_gradient(A, b, x_exact, tol=1e-6, max_iter=20000):
+def conjugate_gradient(A, b, x_exact, tol, max_iter):
     """
     Metodo del Gradiente Coniugato per sistemi lineari
     """

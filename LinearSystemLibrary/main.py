@@ -5,6 +5,14 @@ from methods import solve_linear_system
 import os
 
 
+"""Progetto de Metodi del Calcolo Scientifico
+
+     Autori:
+        Giovanni Bishara 869532
+        Probjot Singh 869434
+        
+ """
+
 def load_matrices(matrix_dir='matrix'):
     """Carica tutte le matrici .mtx dalla cartella specificata"""
     matrices = {}

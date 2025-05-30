@@ -1,7 +1,7 @@
 # Image Compression
 
 
-> Methods of Scientific Computing Project for University Milano Bicocca. 2023-2024. Grade: 30
+> Methods of Scientific Computing Project for University Milano Bicocca.
 
 [![Download Relazione PDF](https://img.shields.io/badge/Download%20Relazione-PDF-lime.svg?style=for-the-badge)](https://github.com/Zeptogram/ImageCompression/releases/download/final/MCS_Relazione_Progetto_2_Biancini_Mattia_865966_Gargiulo_Elio_869184.Final.pdf)
 [![Download Presentazione PDF](https://img.shields.io/badge/Download%20Presentazione-PDF-orange.svg?style=for-the-badge)](https://github.com/Zeptogram/ImageCompression/releases/download/final/Progetto.2.MCS.-.Presentazione.pdf)
@@ -30,8 +30,8 @@ Download the documentation for detailed info about the whole project (only in It
 
 ## Authors
 
-- Mattia Biancini
-- Elio Gargiulo
+- Bishara Giovanni
+- Singh Probjot
 
 ## Useful Resources
 - SciPy DCT: [docs](https://docs.scipy.org/doc/scipy/reference/generated/scipy.fftpack.dct.html)

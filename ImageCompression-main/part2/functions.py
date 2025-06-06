@@ -1,9 +1,5 @@
 """
-    FILE FUNCTIONS.PY 
-
-    AUTORI: 
-    - Biancini Mattia 865966
-    - Gargiulo Elio 869184
+    FILE FUNCTIONS.PY
 
     DESCRIZIONE:
     File principale del progetto.

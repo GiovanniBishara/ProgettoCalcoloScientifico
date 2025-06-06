@@ -1,10 +1,6 @@
 """
     FILE MAIN.PY 
 
-    AUTORI: 
-    - Biancini Mattia 865966
-    - Gargiulo Elio 869184
-
     DESCRIZIONE:
     File ui del progetto. 
     Contiene le funzioni necessarie per la creazione della ui con la

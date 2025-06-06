@@ -1,12 +1,5 @@
 # Image Compression
 
-
-> Methods of Scientific Computing Project for University Milano Bicocca.
-
-[![Download Relazione PDF](https://img.shields.io/badge/Download%20Relazione-PDF-lime.svg?style=for-the-badge)](https://github.com/Zeptogram/ImageCompression/releases/download/final/MCS_Relazione_Progetto_2_Biancini_Mattia_865966_Gargiulo_Elio_869184.Final.pdf)
-[![Download Presentazione PDF](https://img.shields.io/badge/Download%20Presentazione-PDF-orange.svg?style=for-the-badge)](https://github.com/Zeptogram/ImageCompression/releases/download/final/Progetto.2.MCS.-.Presentazione.pdf)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-
 DTC2 Implementation and JPEG-like Compression of grayscale images.
 
 ## Project Overview
